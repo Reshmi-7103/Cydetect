@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional if you want to skip large ones)
+*.pkl
+
+# OS files
+.DS_Store
+
+# Database
+*.db
+
+# VS Code settings
+.vscode/
